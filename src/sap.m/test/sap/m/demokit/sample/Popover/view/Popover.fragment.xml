@@ -13,7 +13,7 @@
 				<Button
 					id="email"
 					text="Email"
-					press="handleEmailPress" />
+					press=".handleEmailPress" />
 			</OverflowToolbar>
 		</footer>
 		<Image src="{ProductPicUrl}" width="15em" densityAware="false" />
